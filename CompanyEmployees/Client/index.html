@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>CompanyEmployees</title>
+
+    <link rel="stylesheet" href="./css/index.css">
+
+    <link rel="stylesheet" 
+    href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" 
+    integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" 
+    crossorigin="anonymous">
+
+    <script 
+    src="https://code.jquery.com/jquery-3.5.1.js" 
+    integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" 
+    crossorigin="anonymous"></script>
+
+    <script src="./js/index.js"></script>
+</head>
+
+<body>
+    <header class="header">
+        <a id="companies" href="#companies">Компании</a>
+        <a id="employees" href="#employees">Сотрудники</a>
+    </header>
+
+    <div id="mainPage">
+        <table id="pagination" style="margin: 2% 13%;">
+            <tr>
+                <td>Количество страниц:</td>
+                <td id="pageCount"></td>
+            </tr>
+            <tr>
+                <td>Страница:</td>
+                <td><input id="pageNumber" type="number" value="1" placeholder="Номер страницы"></td>
+            </tr>
+            <tr>
+                <td>Размер:</td>
+                <td><input id="pageSize" type="number" value="20" placeholder="Размер страницы"></td>
+            </tr>
+            <tr>
+                <td><input type="button" value="Сохранить" onclick="applyPageOptions()"></td>
+            </tr>
+        </table>
+
+        <h1 id="listName" class="text-center">Компании</h1>
+
+        <table id="list" class="table w-75 ml-auto mr-auto">
+        </table>
+
+        <div class="w-75 ml-auto mr-auto mb-3">
+            <input id="add" class="btn btn-primary" type="button" value="Добавить">
+        </div>
+    </div>
+
+    <div id="addPage">
+
+    </div>
+
+    <div id="editPage">
+
+    </div>
+</body>
+</html>
+
+<script>window.onload = constructList(1, 20)</script>

@@ -1,0 +1,15 @@
+C:\Users\Дмитрий\Desktop\CompanyEmployees\CompanyEmployess.Infrastructure\bin\Debug\netcoreapp3.1\CompanyEmployees.Core.dll
+C:\Users\Дмитрий\Desktop\CompanyEmployees\CompanyEmployess.Infrastructure\obj\Debug\netcoreapp3.1\CompanyEmployess.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\CompanyEmployees\CompanyEmployess.Infrastructure\obj\Debug\netcoreapp3.1\CompanyEmployess.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\CompanyEmployees\CompanyEmployess.Infrastructure\obj\Debug\netcoreapp3.1\CompanyEmployess.Infrastructure.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\CompanyEmployees\CompanyEmployess.Infrastructure\bin\Debug\netcoreapp3.1\CompanyEmployess.Infrastructure.deps.json
+C:\Users\Дмитрий\Desktop\CompanyEmployees\CompanyEmployess.Infrastructure\bin\Debug\netcoreapp3.1\CompanyEmployess.Infrastructure.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\CompanyEmployees\CompanyEmployess.Infrastructure\bin\Debug\netcoreapp3.1\CompanyEmployess.Infrastructure.runtimeconfig.dev.json
+C:\Users\Дмитрий\Desktop\CompanyEmployees\CompanyEmployess.Infrastructure\bin\Debug\netcoreapp3.1\CompanyEmployess.Infrastructure.dll
+C:\Users\Дмитрий\Desktop\CompanyEmployees\CompanyEmployess.Infrastructure\bin\Debug\netcoreapp3.1\CompanyEmployess.Infrastructure.pdb
+C:\Users\Дмитрий\Desktop\CompanyEmployees\CompanyEmployess.Infrastructure\bin\Debug\netcoreapp3.1\CompanyEmployees.Core.pdb
+C:\Users\Дмитрий\Desktop\CompanyEmployees\CompanyEmployess.Infrastructure\obj\Debug\netcoreapp3.1\CompanyEmployess.Infrastructure.csproj.CopyComplete
+C:\Users\Дмитрий\Desktop\CompanyEmployees\CompanyEmployess.Infrastructure\obj\Debug\netcoreapp3.1\CompanyEmployess.Infrastructure.dll
+C:\Users\Дмитрий\Desktop\CompanyEmployees\CompanyEmployess.Infrastructure\obj\Debug\netcoreapp3.1\CompanyEmployess.Infrastructure.pdb
+C:\Users\Дмитрий\Desktop\CompanyEmployees\CompanyEmployess.Infrastructure\obj\Debug\netcoreapp3.1\CompanyEmployess.Infrastructure.genruntimeconfig.cache
+C:\Users\Дмитрий\Desktop\CompanyEmployees\CompanyEmployess.Infrastructure\obj\Debug\netcoreapp3.1\CompanyEmployess.Infrastructure.csproj.CoreCompileInputs.cache

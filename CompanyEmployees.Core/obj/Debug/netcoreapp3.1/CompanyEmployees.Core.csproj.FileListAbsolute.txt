@@ -1,0 +1,9 @@
+C:\Users\Дмитрий\Desktop\CompanyEmployees\CompanyEmployees.Core\bin\Debug\netcoreapp3.1\CompanyEmployees.Core.deps.json
+C:\Users\Дмитрий\Desktop\CompanyEmployees\CompanyEmployees.Core\bin\Debug\netcoreapp3.1\CompanyEmployees.Core.dll
+C:\Users\Дмитрий\Desktop\CompanyEmployees\CompanyEmployees.Core\obj\Debug\netcoreapp3.1\CompanyEmployees.Core.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\CompanyEmployees\CompanyEmployees.Core\obj\Debug\netcoreapp3.1\CompanyEmployees.Core.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\CompanyEmployees\CompanyEmployees.Core\obj\Debug\netcoreapp3.1\CompanyEmployees.Core.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\CompanyEmployees\CompanyEmployees.Core\bin\Debug\netcoreapp3.1\CompanyEmployees.Core.pdb
+C:\Users\Дмитрий\Desktop\CompanyEmployees\CompanyEmployees.Core\obj\Debug\netcoreapp3.1\CompanyEmployees.Core.dll
+C:\Users\Дмитрий\Desktop\CompanyEmployees\CompanyEmployees.Core\obj\Debug\netcoreapp3.1\CompanyEmployees.Core.pdb
+C:\Users\Дмитрий\Desktop\CompanyEmployees\CompanyEmployees.Core\obj\Debug\netcoreapp3.1\CompanyEmployees.Core.csproj.CoreCompileInputs.cache
